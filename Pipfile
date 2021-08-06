@@ -11,6 +11,11 @@ Sphinx = "*"
 [packages]
 src = {editable = true, path = "./"}
 awscli = "*"
+datasets = "*"
+tokenizers = "*"
+nltk = "*"
+boto3 = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
