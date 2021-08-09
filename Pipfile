@@ -16,6 +16,7 @@ tokenizers = "*"
 nltk = "*"
 boto3 = "*"
 python-dotenv = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.8"
