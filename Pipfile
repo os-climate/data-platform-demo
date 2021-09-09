@@ -13,6 +13,8 @@ src = {editable = true, path = "./"}
 awscli = "*"
 python-dotenv = "*"
 ipywidgets = "*"
+
+# deps for notebooks and pipelines
 boto3 = "*"
 trino = "*"
 pandas = "*"
