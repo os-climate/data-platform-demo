@@ -9,7 +9,7 @@ coverage = "*"
 Sphinx = "*"
 
 [packages]
-src = {editable = true, path = "./"}
+#src = {editable = true, path = "./"}
 awscli = "*"
 python-dotenv = "*"
 ipywidgets = "*"
