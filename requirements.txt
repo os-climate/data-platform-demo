@@ -1,0 +1,7 @@
+awscli
+boto3
+ipywidgets
+pandas
+pyarrow
+python-dotenv
+trino
