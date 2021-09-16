@@ -19,6 +19,7 @@ boto3 = "*"
 trino = "*"
 pandas = "*"
 pyarrow = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
