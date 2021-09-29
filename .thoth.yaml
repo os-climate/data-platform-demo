@@ -3,7 +3,7 @@ tls_verify: false
 requirements_format: pipenv
 
 runtime_environments:
-  - name: ubi8
+  - name: default
     operating_system:
       name: ubi
       version: "8"
@@ -11,17 +11,6 @@ runtime_environments:
     recommendation_type: latest
 
 managers:
-  - name: pipfile-requirements
-  - name: update
+  - name: thoth-advise
     configuration:
       labels: [bot]
-  - name: info
-  - name: version
-    configuration:
-      maintainers:
-        - erikerlandson
-        - oindrillac
-      assignees:
-        - sesheta
-      labels: [bot]
-      changelog_file: true
