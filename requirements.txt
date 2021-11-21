@@ -1,0 +1,8 @@
+awscli
+boto3
+ipywidgets
+openpyxl
+pandas
+pyarrow
+python-dotenv
+trino
