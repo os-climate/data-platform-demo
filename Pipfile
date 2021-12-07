@@ -17,9 +17,17 @@ ipywidgets = "*"
 # deps for notebooks and pipelines
 boto3 = "*"
 trino = "*"
+sqlalchemy = "*"
+sqlalchemy-trino = "*"
 pandas = "*"
 pyarrow = "*"
+fastparquet = "*"
 openpyxl = "*"
+
+anytree = "*"
+
+# OSC utilitiles
+osc-ingest-tools = "*"
 
 [requires]
 python_version = "3.8"
