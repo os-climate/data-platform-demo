@@ -1,10 +1,8 @@
-project-template
-==============================
+# data-platform-demo
 
 template for the team to use
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -55,7 +53,6 @@ Project Organization
     ├── .aicoe-ci.yaml     <- AICoE CI configuration file (https://github.com/AICoE/aicoe-ci)
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
+---
 
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Project based on the [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) data science project template
